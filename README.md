@@ -1,5 +1,11 @@
-### Hi there 👋
+### <h2>Hi world ;) ,I m Ahmad Zia Yousufi <img src="https://media4.giphy.com/media/gD5LqssNPRIRTU3BlA/giphy.gif" width="70"></h2> <img align='right' src="https://media3.giphy.com/media/dXoQ28YNFGpMO076NG/giphy.gif" width="230">
+<p><em>Full-stack developer ready for adventure</em><img src="https://media1.giphy.com/media/Qyo4wXCuIUNZJ4Qykp/giphy.gif" width="50"></p>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ziayousofi?style=social&link=https://twitter.com/ziayousofi)](https://twitter.com/ziayousofi)
+[![Facebook connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ah.ziayousufi)
+[![Linkedin connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ah-ziayosfi)
+[![Linkedin connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ah.ziayosfi/)
+[![Zia GitHub stats](https://github-readme-stats.vercel.app/api?username=ahzia&count_private=true&show_icons=true&theme=radical)](https://github.com/ahzia/github-readme-stats)
 <!--
 **ahzia/ahzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
