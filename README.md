@@ -24,4 +24,4 @@ Looking for a Developer? Let's Schedule a Zoom chat! send me an e-mail at ah.zia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahzia&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ahzia&icon=6&color=0)](https://visitcount.itsvg.in) Since April 2022
